@@ -6,7 +6,6 @@ Passionné par la data et la communication, je m'intéresse à :<br><br>🤖 l'i
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elliotlagaise&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elliotlagaise&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotlagaise&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
