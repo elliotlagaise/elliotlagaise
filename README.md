@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Elliot Lagaise</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 # 💫 About Me:
 Passionné par la data et la communication, je m'intéresse à :<br><br>🤖 l'intelligence artificielle<br>💻 les nouvelles technologies<br>🌐 la transition numérique du monde<br><br>J'ai un attrait pour l'analyse de données, la gestion de projet, domaines dans lesquels j'aime mettre en pratique ma créativité, mon sens de l'analyse et mon organisation.
 
