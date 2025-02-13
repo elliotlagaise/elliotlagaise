@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About me :
 Passionné par la data et la communication, je m'intéresse à :<br><br>🤖 l'intelligence artificielle<br>💻 les nouvelles technologies<br>🌐 la transition numérique du monde<br><br>J'ai un attrait pour l'analyse de données, la gestion de projet, domaines dans lesquels j'aime mettre en pratique ma créativité, mon sens de l'analyse et mon organisation.
 
 # 💻 Tech Stack:
